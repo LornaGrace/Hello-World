@@ -1,5 +1,4 @@
-Hello-World
-===========
+# Hello-World example repository
 
-Repository 1
+Example text for Repository 1
 Beautiful day today. The squirrels looked grumpy.
